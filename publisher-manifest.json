@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "78cb7430cb7946689e41c15a",
+  "owner": "apcx3nqcm",
+  "repo": "page-9ecc1e3cf99d3b54836403a6",
+  "title": "MYAN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9ecc1e3cf99d3b54836403a6",
+      "a": "MYAN",
+      "b": "2027官方最新地址导航",
+      "entity": "MYAN",
+      "brand": "MYAN",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d707aed09fabf13e5d684a3d2da97233360855e771be0fe6ac9a28e222fef556",
+      "content": {
+        "primary_entity": "MYAN",
+        "keyword1": "MYAN",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，MYAN 品牌海外加速器提供基础版、旗舰版与团队版三档套餐，月付与年付可选，支持多设备同时在线。客户端覆盖 Windows、macOS、Android、iOS 与路由器，订阅导入后可按客户端文档完成配置。",
+          "AI_HERO_SUBTITLE": "MYAN 品牌海外加速器",
+          "AI_HERO_INTRO": "MYAN 是面向个人与团队的品牌海外加速器，提供基础版、旗舰版和团队版三档套餐，适配桌面和移动设备的订阅配置。",
+          "AI_VISUAL_TITLE": "MYAN 海外加速器",
+          "AI_HIGHLIGHT_1": "三档套餐，按设备数选择",
+          "AI_HIGHLIGHT_2": "月付或年付，灵活订阅",
+          "AI_HIGHLIGHT_3": "多平台客户端订阅配置",
+          "AI_FEATURES_TITLE": "套餐与设备搭配建议",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和预算出发，选择适合的 MYAN 套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台、旗舰版 5 台、团队版 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB 流量。",
+          "AI_FEATURE_TITLE_3": "按年付更省",
+          "AI_FEATURE_TEXT_3": "基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再导入 MYAN 订阅完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付更划算。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "先确定套餐，再查看设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量和流量需求，在基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与客户端是否匹配，再准备订阅。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端文档导入订阅，保存后连接节点使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐，开始加速",
+          "AI_CLOSING_TEXT": "根据设备数和流量需求挑一档 MYAN 套餐，按客户端文档完成订阅配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_1": "在客户端找到订阅设置，粘贴订阅链接后更新即可。具体步骤参见客户端文档。",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。超过限制可能导致其他设备断开。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付按十个月价格计算，比月付节省两个月费用。流量、设备数和线路权益与对应月付版本一致。",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线有什么优势？",
+          "AI_FAQ_ANSWER_4": "IPLC 专线提供更稳定的游戏和视频体验，降低延迟与丢包，适合对线路质量要求较高的用户。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供 1000GB 流量与 20 台设备支持，还可定制路由，适合小型团队或家庭多设备共享。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tjhjinj.cn",
+    "host": "tjhjinj.cn"
+  },
+  "file_hashes": {
+    "index.html": "be76be418ea99c7093c7ba4e7ef72619f12f6b7e16eb73967e5ddd98d4b3bea3",
+    "sitemap.xml": "e0079ca293017e1a47173607ca82de85d83957b9d81faefbc9054773b05a9f79",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1ea829c1555ef29570da28d4a1d619d38f314e9ee5a766241092168bd8c2eb25",
+    "robots.txt": "c26695ac377c49eb0141bdf521df7174d3da757c2e23b019c364cd37ce1abca8",
+    "d79d77c2a24906cc4d73acfbdf7ae27a.txt": "cc20c9dc06ef6df51a53424611b807f5b09642ca9aad23a8c7510962e3f79bda"
+  },
+  "revision": "b87a84048cc274562b57c7c99ea42dad5bf2adb3011971e8853f6c64942b224b"
+}
